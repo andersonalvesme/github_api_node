@@ -26,14 +26,7 @@ Endpoints:
 
 Deployment and tests are running using bitbucket-pipelines.
 
-Images:
-
-
 - Test:
-
-
-
-- Deploy (Using Repo vars):
-
+![node_tests.png](node_tests.png)
 
 Thanks...  :)
