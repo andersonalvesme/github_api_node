@@ -18,24 +18,5 @@ You need to install the NodeJS for run in local environment;
 Endpoints:
 
 - http://localhost:8080/api/users?per_page=1&since=711314
-
 - http://localhost:8080/api/users/brunobertolini/details
-
 - http://localhost:8080/api/users/brunobertolini/repos?per_page=1&page=1
-
-### Production environment
-
-Endpoints:
-
-- https://shawandpartnersnode.herokuapp.com/api/users?per_page=1&since=711314
-
-- https://shawandpartnersnode.herokuapp.com/api/users/brunobertolini/details
-
-- https://shawandpartnersnode.herokuapp.com/api/users/brunobertolini/repos?per_page=1&page=1
-
-Deployment and tests are running using bitbucket-pipelines.
-
-- Test:
-![node_tests.png](node_tests.png)
-
-Thanks...  :)
