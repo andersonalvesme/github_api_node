@@ -39,7 +39,7 @@ router.get('/api/users/:username/details', (req, res, next) => {
 
 /**
  * Rest request example
- * - http://localhost:8080/api/users/brunobertolini/repos?per_page=3&page=2
+ * - http://localhost:8080/api/users/andersonalvesme/repos?per_page=3&page=2
  **/
 router.get('/api/users/:username/repos', (req, res, next) => {
     const username = req.params.username;
