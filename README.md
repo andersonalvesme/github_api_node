@@ -18,5 +18,5 @@ You need to install the NodeJS for run in local environment;
 Endpoints:
 
 - http://localhost:8080/api/users?per_page=1&since=711314
-- http://localhost:8080/api/users/brunobertolini/details
-- http://localhost:8080/api/users/brunobertolini/repos?per_page=1&page=1
+- http://localhost:8080/api/users/andersonalvesme/details
+- http://localhost:8080/api/users/andersonalvesme/repos?per_page=1&page=1
